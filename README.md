@@ -1,10 +1,12 @@
 
 
-update note:
+## update note:
 
-TODO -
-1 . Train on Multi language - ZIPVOICE TRAIN
-2. Impl in Luxiam check zeroshot chaterbox 
+## TODO -
+1. Train on Multi language - ZIPVOICE TRAIN;
+2. Impl in Luxiam check zeroshot chaterbox ;
+3. API Inference
+
 
 
 2026-01-29
