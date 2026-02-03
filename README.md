@@ -1,6 +1,11 @@
-Project quick start :https://github.com/ysharma3501/LuxTTS
+
 
 update note:
+
+TODO -
+1 . Train on Multi language - ZIPVOICE TRAIN
+2. Impl in Luxiam check zeroshot chaterbox 
+
 
 2026-01-29
 1. Skip Whisper recognition if text exists in speaker.yml; 
